@@ -205,7 +205,7 @@ pause
 )
 :mulai_ulang_komputer
 cls
-shutdown /r /t O
+shutdown /i  /l  /s  /sg  /r  /g  /a  /p  /h  /e  /o
 pause
 goto menu_perbaikan_komputer
 
